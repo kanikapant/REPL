@@ -1,11 +1,3 @@
-# Cryptowatch Golang Hiring Test: K/V REPL with nested transactions
-
-Thank you for applying to work on Cryptowatch at Kraken!
-
-We'd like the opportunity to see how you write code and solve problems, so we created this little challenge.
-
-We don't limit the time you spend on the solution, you're free to spend as much as you want. Quality-wise, consider it a real task (albeit a little toyish) given to you by your manager.
-
 ## The Goal
 
 In this exercise we ask you to write a command line REPL (read-eval-print loop) that drives a simple in-memory key/value storage system. This system should also allow for nested transactions. A transaction can then be committed or aborted.
